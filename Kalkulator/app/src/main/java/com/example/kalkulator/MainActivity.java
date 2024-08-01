@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
             double hasil = bil_1 + bil_2;
 
             tvhasil.setText(hasil + "");
-        }
+        }  
 
     }
 }
